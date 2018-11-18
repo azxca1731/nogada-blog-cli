@@ -6,6 +6,7 @@
 1. 이 레포지토리를 클론을 합니다.<br /> `git clone https://github.com/azxca1731/nogada-blog-cli`
 2. 클론한 디렉토리에 들어갑니다.<br /> `cd nogada-blog-cli`
 3. 전역으로 프로그램을 설치합니다. <br /> `npm install -g`
+4. 만약 content,posts가 없으면 정상작동 하지 않습니다. 확인해주시길 바랍니다.
 
 ---
 
