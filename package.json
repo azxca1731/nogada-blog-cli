@@ -1,0 +1,17 @@
+{
+  "name": "nogada-post-cli",
+  "version": "0.1.0",
+  "description": "nogada develop blog for cli",
+  "main": "./lib/app.js",
+  "bin": {
+    "ngd-blog": "bin/app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junghun Lee",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
